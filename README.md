@@ -1,3 +1,14 @@
+# 🔏 Encriptador && Desencriptador de texto 🔓
+<p align="center" >
+     <img width="1352" heigth="766" src="https://alejob0t.github.io/Challenge-ONE-Sprint-01/blob/main/img/screen.JPG">
+</p>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
+    <img src="https://img.shields.io/badge/HTML-5A5A5A?logo=html5" />
+    <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
+</div>
+
 ## 📖Resume del projecto
 
 Este es el primer Challenge del programa ONE - Oracle Next Education y Alura Latam. Esta aplicación tiene la función de encriptar y desencriptar mensajes de texto de forma sencilla. Con el objetivo de intercambiar información con otras personas de una manera segura y divertida.

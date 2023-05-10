@@ -1,6 +1,6 @@
 # 🔏 Encriptador && Desencriptador de texto 🔓
 <p align="center" >
-     <img width="1352" heigth="766" src="https://alejob0t.github.io/Challenge-ONE-Sprint-01/blob/main/img/screen.JPG">
+     <img width="1352" heigth="766" src="https://github.com/AlejoB0T/Challenge-ONE-Sprint-01/assets/129323035/e7e6a987-76d1-435d-a31b-049cf36ff96c">
 </p>
 
 <div align="center">
